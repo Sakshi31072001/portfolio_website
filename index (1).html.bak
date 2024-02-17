@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Portfolio- Sakshi</title>
+    <link rel="icon" type="image/x-icon" href="">
+	
+
+    <!-- font icons -->
+    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+    <!-- Bootstrap + Steller main styles -->
+    <link rel="stylesheet" href="assets/css/steller.css">
+	
+</style>
+</head>
+
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+<div class="parallax"></div>
+    <!-- Page navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" data-spy="affix" data-offset-top="0">
+        <div class="container">
+           
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto align-items-center">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#service">Service</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- End of page navibation -->
+
+    <!-- Page Header -->
+    <header class="header" id="homes">
+        <div class="container">
+            <div class="infos">
+                <h6 class="subtitle">hello,I'm</h6>
+                <h6 class="title">Sakshi Kashyap</h6>
+                <p>Software developer.</p>
+
+                <div class="buttons pt-3">
+
+                    <a href="mailto:sakshikashyap862@gmail.com" class="btn btn-primary rounded">HIRE ME</a>
+                    <a href="/assets/Resume/Sakshi.pdf" download="Sakshi.pdf" class="btn btn-dark rounded">DOWNLOAD
+                        CV</a>
+                </div>
+
+                <div class="socials mt-4">
+                    <a class="social-item" href="https://www.linkedin.com/in/sakshi-kashyap-swe" target="_blank"><i
+                            class="ti-linkedin"></i></a>
+                    <a class="social-item" href="mailto:sakshikashyap862@gmail.com" target="_blank"><i
+                            class="ti-google"></i></a>
+                    <a class="social-item" href="https://github.com/Sakshi31072001" target="_blank"><i
+                            class="ti-github"></i></a>
+                    <a class="social-item" href="https://instagram.com/_sakshi.31__?igshid=MzNlNGNkZWQ4Mg=="
+                        target="_blank"><i class="ti-instagram"></i></a>
+                </div>
+            </div>
+            <!-- <div class="img-holder">
+                <img src="assets/imgs/bgc.jpeg" alt="">
+            </div> -->
+        </div>
+
+
+    </header>
+    <!-- End of Page Header -->
+
+    <!-- About section -->
+    <section id="about" class="section mt-3">
+        <div class="container mt-5">
+            <div class="row text-center text-md-left">
+                <div class="col-md-3">
+                    <img src="sakshi.jpg" alt="" class="img-thumbnail mb-4">
+                </div>
+                <div class="pl-md-4 col-md-9">
+                    <h6 class="title">Sakshi Kashyap</h6>
+                    <p class="subtitle">Software developer</p>
+                    <p>The tech industry is constantly evolving, and I have a passion for staying up-to-date with the
+                        latest trends and technologies. My commitment to continuous learning and professional
+                        development ensures that I can adapt to new challenges and deliver cutting-edge solutions.</p>
+                    <a href="/assets/Resume/Sakshi.pdf" download="Sakshi.pdf"
+                        class="btn btn-primary rounded mt-3">DOWNLOAD CV</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Service section -->
+    <section id="service" class="section">
+        <div class="container text-center">
+            <h6 class="subtitle">Service</h6>
+            <h6 class="section-title mb-4">What I Do</h6>
+            <p class="mb-5 pb-4">Understanding the requirements and functionality of application Executing functional,Integration and System Test Cases,Executing test cases while build was given,Identifying defect,preparing Bug report and raising the track defect using JIRA</p>
+            <div class="row">
+                <div class="col-sm-6 col-md-3 mb-4">
+                    <div class="custom-card card border">
+                        <div class="card-body">
+                            <i class="icon ti-crown"></i>
+                            <h5>Web Designing</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 mb-4">
+                    <div class="custom-card card border">
+                        <div class="card-body">
+                            <i class="icon ti-desktop"></i>
+                            <h5>Java</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 mb-4">
+                    <div class="custom-card card border">
+                        <div class="card-body">
+                            <i class="icon ti-mobile"></i>
+                            <h5>Manual Testing</h5>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-3 mb-4">
+                    <div class="custom-card card border">
+                        <div class="card-body">
+                            <i class="icon ti-bar-chart"></i>
+                            <h5>SQL</h5>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Sectoin -->
+
+    <!-- Skills section -->
+    <section class="section">
+        <div class="container text-center">
+            <h6 class="subtitle">Skills</h6>
+            <h6 class="section-title mb-4">Why Choose me</h6>
+            <p class="mb-5 pb-4">Self-motivated, passionate and adaptable Software Engineer with expertise in Java,SQL and Manual Testing using Agile process and JIRA Tool, looking forward to start Career with an organization of repute and utilize skills & knowledge possessed for organizational and self-growth.</p>
+
+            <div class="row text-left">
+                <div class="col-sm-6">
+                    <h6 class="mb-3">Leadership</h6>
+                    <div class="progress">
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 95%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100"><span>95%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <h6 class="mb-3">Collaboration</h6>
+                    <div class="progress">
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 98%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100"><span>98%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <h6 class="mb-3">Communication</h6>
+                    <div class="progress">
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 96%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100"><span>96%</span></div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <h6 class="mb-3">Optimism</h6>
+                    <div class="progress">
+                        <div class="progress-bar bg-primary" role="progressbar" style="width: 96%;" aria-valuenow="25"
+                            aria-valuemin="0" aria-valuemax="100"><span>96%</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End of Skills sections -->
+
+    <!-- Hire me section -->
+    <section class="bg-gray p-0 section">
+        <div class="container">
+            <div class="card bg-primary">
+                <div class="card-body text-light">
+                    <div class="row align-items-center">
+                        <div class="col-sm-9 text-center text-sm-left">
+                            <h5 class="mt-3">Hire Me For Your Project</h5>
+                            <p class="mb-3">Feel free to contact me through the form on this website.</p>
+                        </div>
+                        <div class="col-sm-3 text-center text-sm-right">
+                            <a href="mailto:sakshikashyap862@gmail.com" class="btn btn-light rounded">Hire Me!</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- End od Hire me section. -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="position-relative section">
+        <div class="container text-center">
+            <h6 class="subtitle">Contact</h6>
+            <h6 class="section-title mb-4">Get In Touch With Me</h6>
+            <p class="mb-5 pb-4">I'm passionate about what I do and always eager to work on exciting projects. If you're
+                looking for a creative, dedicated, and experienced professional to join your team or assist with your
+                project, let's connect.</p>
+
+            <div class="contact text-left">
+                <div class="form">
+                    <h6 class="subtitle">Available 24/7</h6>
+                    <h6 class="section-title mb-4">Get In Touch</h6>
+                    <form>
+                        <div class="form-group">
+                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                aria-describedby="emailHelp" placeholder="Enter email" required>
+                        </div>
+                        <div class="form-group">
+                            <input type="password" class="form-control" id="exampleInputPassword1"
+                                placeholder="Password" required>
+                        </div>
+                        <div class="form-group">
+                            <textarea name="contact-message" id="" cols="30" rows="5" class="form-control"
+                                placeholder="Message"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-block rounded w-lg">Send Message</button>
+                    </form>
+                </div>
+                <div class="contact-infos">
+                    <div class="item">
+                        <i class="ti-location-pin"></i>
+                        <div class="">
+                            <h5>Location</h5>
+                            <p>12/4,pawar nagar,Thergaon, Pune-411033.</p>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <i class="ti-mobile"></i>
+                        <div>
+                            <h5>Phone Number</h5>
+                            <a href="tel:8624986834">8624986834</a>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <i class="ti-email"></i>
+                        <div class="mb-0">
+                            <h5>Email Address</h5>
+                            <p><a href="mailto:sakshikashyap862@gmail.com"
+                                    target="_blank">sakshikashyap862@gmail.com</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="map">
+            <iframe src="https://snazzymaps.com/embed/61257"></iframe>
+        </div>
+    </section>
+    <!-- End of Contact Section -->
+
+    <!-- Page Footer -->
+    <footer class="page-footer">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-sm-6">
+                    <p>Copyright
+                        <script>document.write(new Date().getFullYear())</script> &copy; <a target="_blank">Sakshi
+                            Kashyap</a>
+                    </p>
+                </div>
+                <div class="col-sm-6">
+                    <div class="socials">
+                        <a class="social-item" href="https://www.linkedin.com/in/sakshi-kashyap-swe" target="_blank"><i
+                                class="ti-linkedin"></i></a>
+                        <a class="social-item" href="mailto:sakshikashyap862@gmail.com" target="_blank"><i
+                                class="ti-google"></i></a>
+                        <a class="social-item" href="https://github.com/Sakshi31072001" target="_blank"><i
+                                class="ti-github"></i></a>
+                        <a class="social-item" href="https://instagram.com/_sakshi.31__?igshid=MzNlNGNkZWQ4Mg=="
+                            target="_blank"><i class="ti-instagram"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- End of page footer -->
+
+    <!-- core  -->
+    <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="assets/vendors/bootstrap/bootstrap.bundle.js"></script>
+    <!-- bootstrap 3 affix -->
+    <script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- steller js -->
+    <script src="assets/js/steller.js"></script>
+
+</body>
+
+</html>
